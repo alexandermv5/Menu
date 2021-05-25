@@ -1,8 +1,4 @@
-<%-- 
-    Document   : index.jsp
-    Created on : 20/05/2021, 12:16:17 PM
-    Author     : RPC
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
@@ -39,7 +35,7 @@
                         <div class="card-header">
                             <div class="row h5">
                                 <div class="col-6">
-                                    <i class="fas fa-landmark"></i> Portal Bancario<br/>
+                                    <i class="fas fa-landmark"></i> Restaurante<br/>
                                 </div>
                             </div>				
                         </div>
