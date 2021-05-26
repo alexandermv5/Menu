@@ -14,7 +14,7 @@
         </ul>
         <!-- Button trigger modal -->   
         
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#loginModal">Ingresar</button>
+        <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#loginModal">Ingresar</button>
         
     </div>
 </nav>
